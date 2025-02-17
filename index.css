@@ -14,7 +14,7 @@
 	background-repeat: no-repeat;
 }
 
-#hero {
+#home {
   height: 90vh;
   width: 100%;
   max-width: 100%;
@@ -154,11 +154,11 @@
 }
 
 
-#footer{
+#resources{
 	background-color: #222222;
 }
 
-#footer a{
+#resources a{
 	display: block;
 	text-decoration: none;
 	color: #75A533;
